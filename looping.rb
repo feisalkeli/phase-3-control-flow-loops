@@ -19,7 +19,9 @@ def fizzbuzz(num)
   else
     num
   end
+  puts "fizz buzz"
 end
+
 
 def fizzbuzz_printer
   # your code here
