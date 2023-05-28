@@ -19,7 +19,7 @@ def fizzbuzz(num)
   else
     num
   end
-  puts "fizz buzz"
+  
 end
 
 
